@@ -16,6 +16,10 @@ li
 a:hover{
     text-decoration: none;
 }
+nav
+{
+    background-color: aquamarine;
+}
 #nav
 {
     position: fixed;
